@@ -1,1 +1,15 @@
 
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+
+# Build Files
+/build
+/dist
