@@ -161,7 +161,7 @@ For questions, suggestions, or support, please reach out to:
 ---
 
 *Building the future of genomics and AI together.*
-
+```
 genomic-data-center-ai-gpu-foundry/
 │
 ├── docs/
@@ -193,4 +193,4 @@ genomic-data-center-ai-gpu-foundry/
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 └── .gitignore
-
+```
